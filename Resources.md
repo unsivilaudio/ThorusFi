@@ -1,4 +1,4 @@
-# How To Get Funds On Avalanche C-Chain Network\*\*
+# How To Get Funds On Avalanche C-Chain Network
 
 ---
 
