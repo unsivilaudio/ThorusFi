@@ -1,3 +1,5 @@
+![thorus-banner](https://github.com/unsivilaudio/ThorusFi/blob/master/assets/img/Banner-long.png?raw=true)
+
 # How To Get Funds On Avalanche C-Chain Network
 
 ---
