@@ -10,6 +10,7 @@
 | ------------------------------- | -------------: | -------------: |
 | [Binance](https://binance.com/) |            0.4 |           0.01 |
 | [Kucoin](https://kucoin.com/)   |            0.1 |           0.01 |
+| [FTX](https://ftx.com/en)       |            N/A |            N/A |
 
 > **make sure to select "C-Chain" as network withdrawal option**
 
