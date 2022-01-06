@@ -4,17 +4,18 @@
 
 ---
 
-## CEX
+## CEX (for AVAX)
 
-| Name                            | Min Withdrawal | Withdrawal Fee |
-| ------------------------------- | -------------: | -------------: |
-| [Binance](https://binance.com/) |            0.4 |           0.01 |
-| [Kucoin](https://kucoin.com/)   |            0.1 |           0.01 |
-| [FTX](https://ftx.com/en)       |            N/A |            N/A |
+| Name                              | Min Withdrawal | Withdrawal Fee |
+| --------------------------------- | -------------: | -------------: |
+| [Binance](https://binance.com/)   |            0.4 |           0.01 |
+| [Kucoin](https://kucoin.com/)     |            0.1 |           0.01 |
+| [FTX](https://ftx.com/en)         |            N/A |            N/A |
+| [Crypto.com](https://crypto.com/) |           0.08 |          0.005 |
 
-> **make sure to select "C-Chain" as network withdrawal option**
+> **make sure to select "Avalanche C-Chain" as network withdrawal option**
 
-## BRIDGE
+## BRIDGE (for stable coins)
 
 | Name                                                       | Min Transfer |                                Transfer Fee | Gas Bonus |          Stables Supported           |
 | ---------------------------------------------------------- | -----------: | ------------------------------------------: | :-------: | :----------------------------------: |
@@ -28,6 +29,6 @@
 <sup id="N1">1</sup> Variable rate based on congestion</br>
 <sup id="N2">2</sup> Only supports $ELK token bridging, with option to turn 1 $ELK into gas
 
-## FAUCET
+## FAUCET (for AVAX)
 
 -   _coming soon..._
