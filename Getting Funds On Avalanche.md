@@ -38,6 +38,7 @@ Join the [Thorus Discord 🔗](https://discord.gg/thorusfi)
 ## Links
 
 Website: https://thorus.fi  
+Docs: https://docs.thorus.fi
 Twitter: https://twitter.com/ThorusFi
 Reddit: https://www.reddit.com/r/thorusfi/
 Telegram (Announcements): https://t.me/ThorusFi
