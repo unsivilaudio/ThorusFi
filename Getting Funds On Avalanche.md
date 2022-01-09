@@ -34,3 +34,11 @@
 > We have a limited use faucet on the Thorus discord that will give you enough AVAX to complete your first couple transactions.
 
 Join the [Thorus Discord 🔗](https://discord.gg/thorusfi)
+
+## Links
+
+Website: https://thorus.fi  
+Twitter: https://twitter.com/ThorusFi
+Reddit: https://www.reddit.com/r/thorusfi/
+Telegram (Announcements): https://t.me/ThorusFi
+Discord (Support): https://discord.gg/ThorusFi
