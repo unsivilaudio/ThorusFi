@@ -10,7 +10,7 @@
 | --------------------------------- | -------------: | -------------: |
 | [Binance](https://binance.com/)   |            0.4 |           0.01 |
 | [Kucoin](https://kucoin.com/)     |            0.1 |           0.01 |
-| [FTX](https://ftx.com/en)         |            N/A |            N/A |
+| [FTX](https://ftx.com/en)         |            N/A |          <0.00 |
 | [Crypto.com](https://crypto.com/) |           0.08 |          0.005 |
 
 > **make sure to select "Avalanche C-Chain" as network withdrawal option**
@@ -31,4 +31,6 @@
 
 ## FAUCET (for AVAX)
 
--   _coming soon..._
+> We have a limited use faucet on the Thorus discord that will give you enough AVAX to complete your first couple transactions.
+
+Join the [Thorus Discord 🔗](https://discord.gg/thorusfi)
